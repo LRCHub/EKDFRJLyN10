@@ -1,4 +1,4 @@
-# YOURNESS – Try add
+# Nornis – Try add
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
