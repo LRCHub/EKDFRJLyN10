@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Try add",
-  "base_artist": "YOURNESS",
-  "createdAt": "2025-12-17T14:58:26.902708Z",
+  "base_artist": "Nornis",
+  "createdAt": "2026-01-12T11:36:20.492437Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -16,9 +16,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Try add",
-      "artist": "YOURNESS",
+      "artist": "Nornis",
       "has_synced": false,
-      "path": "select/pl_01_Try_add_YOURNESS.txt"
+      "path": "select/pl_01_Try_add_Nornis.txt"
     }
   ]
 }
